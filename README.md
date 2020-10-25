@@ -1,1 +1,1 @@
-# J1nHyeockKim-SCB_StarcraftBotPrograming
+SCB_StarcraftBotPrograming
